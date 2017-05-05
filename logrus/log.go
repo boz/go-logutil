@@ -3,7 +3,7 @@ package logrus
 import (
 	"fmt"
 
-	"github.com/boz/kcache/logutil"
+	logutil "github.com/boz/go-logutil"
 	lr "github.com/sirupsen/logrus"
 )
 
